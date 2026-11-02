@@ -1,11 +1,11 @@
 :root{
-     --background: url('https://images8.alphacoders.com/120/thumb-1920-1201526.jpg');
+     --background: url('https://images8.alphacoders.com/125/thumb-1920-1259034.jpg');
      --activetext-colour: white;
  
      --primary1-colour: purple;
      --primary2-colour: rgba(36, 4, 66, 0.5);
      --primary3-colour: rgba(78, 0, 100, 0.6);
-     --primary4-colour: rgba(100,0,0,0.4);
+     --primary4-colour: rgba(92, 0, 100, 0.4);
  
      --secondary1-colour: rgba(50,50,50,0.3);
      --secondary2-colour: rgba(100,100,100,0.5);
@@ -206,7 +206,7 @@
         #app-mount .containerDefault__29444 {
             background-color: var(--primary3-colour); 
             height: 30px; text-align: center; 
-            border-radius: 10px; 
+            border-radius: 20px; 
             padding: 5px 5px 0 5px;
         }
 
@@ -246,7 +246,7 @@
             #app-mount .containerDefault_c69b6d .wrapper__2ea32 { background-color: var(--secondary1-colour) }
 
             #app-mount .containerDefault_c69b6d .wrapper__2ea32 {
-                border-radius: 10px 0 0 10px;
+                border-radius: 20px 0 0 20px;
                 width: 230px; 
                 transition: width 0.2s; 
                 transition-timing-function: ease-in-out; 
@@ -259,7 +259,7 @@
             
             #app-mount .actionBar_aa605f {
                 background-color: var(--secondary3-colour); 
-                border-radius: 5px;
+                border-radius: 20px;
             }
 
         /*Voice Channels*/
